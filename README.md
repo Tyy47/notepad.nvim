@@ -8,7 +8,7 @@ Use your plugin manager of choice, for example with `lazy.nvim`:
 
 ```lua
 {
-  "your-name/notepad.nvim",
+  "Tyy47/notepad.nvim",
   opts = {},
 }
 ```
